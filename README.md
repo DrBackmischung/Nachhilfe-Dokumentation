@@ -1,6 +1,18 @@
 # Nachhilfe-Dokumentation
 SE III: Dokumentation für Nachhilfe-Plattform
 
+## Benötigte Software
+- Go
+- Node / npm
+- Python / pip / Django
+- Java 11 / Maven
+- Erlang / Elixir / Phoenix
+- Git
+- XAMPP / MySQL / Phpmyadmin
+- Elasticsearch >=8.5.2
+- Kibana >=8.5.2
+- Logstash >=8.5.2
+
 ## Frontend
 https://github.com/DrBackmischung/Nachhilfe-Frontend
 
