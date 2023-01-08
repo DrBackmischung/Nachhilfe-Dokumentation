@@ -11,5 +11,4 @@ SE III: Dokumentation für Nachhilfe-Plattform
 - XAMPP / MySQL / Phpmyadmin
 - Kotlin / Gradle
 - Insomnia
-- postgreSQL
-- MongoDB 
+- MongoDB Compass
